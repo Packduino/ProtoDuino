@@ -13,3 +13,5 @@ Este projeto foi pensado para pessoas interessadas em aprender programação com
 <br> - Conector de 28 pinos para conexão com protoboards de 400 pontos ou maior;
 <br> - Gravação pelo conversor USB-TTL CH340E (<a href="https://sparks.gogo.co.nz/ch340.html">DRIVER</a>);
 <br> - CI Atmega328p com bootloader de Arduino UNO (<a href="https://www.arduinoecia.com.br/gravando-bootloader-no-atmega328-com-arduino/">Exemplo</a>);
+<p>
+<img src="https://github.com/Packduino/ProtoDuino/blob/master/esquematico.jpg?raw=true" alt="Esquemático" width=600 height=400>
