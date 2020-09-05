@@ -15,3 +15,6 @@ Este projeto foi pensado para pessoas interessadas em aprender programação com
 <br> - CI Atmega328p com bootloader de Arduino UNO (<a href="https://www.arduinoecia.com.br/gravando-bootloader-no-atmega328-com-arduino/">Exemplo</a>);
 <p>
 <img src="https://github.com/Packduino/ProtoDuino/blob/master/esquematico.jpg?raw=true" alt="Esquemático" width=600 height=400>
+  <p> Adquira já o seu:<br>
+    <a href="https://produto.mercadolivre.com.br/MLB-1649145548-protoduino-arduino-uno-kit-maker-automaco-nano-mega-_JM">Mercado Livre</a>
+    
