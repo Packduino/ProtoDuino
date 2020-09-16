@@ -17,7 +17,7 @@ Este projeto foi pensado para pessoas interessadas em aprender programação com
 <img src="https://github.com/Packduino/ProtoDuino/blob/master/esquematico.jpg?raw=true" alt="Esquemático" width=600 height=400>
   
   <br>  Vídeo de apresentação:<br>
-    <a href="https://www.youtube.com/watch?v=MrcQVE6RkJA">Mercado Livre</a>
+    <a href="https://www.youtube.com/watch?v=MrcQVE6RkJA">Youtube</a>
   <p> Adquira já o seu:<br>
     <a href="https://produto.mercadolivre.com.br/MLB-1649145548-protoduino-arduino-uno-kit-maker-automaco-nano-mega-_JM">Mercado Livre</a>
     
