@@ -17,7 +17,7 @@ Este projeto foi pensado para pessoas interessadas em aprender programação com
 <img src="https://github.com/Packduino/ProtoDuino/blob/master/esquematico.jpg?raw=true" alt="Esquemático" width=600 height=400>
   <br><h3> Modelo 3D </h3>
   
-   <img src="https://github.com/Packduino/ProtoDuino/blob/master/top_pcb_clean.jpg" alt="Modelo 3D" width="600" height="600">
+   <img src="https://github.com/Packduino/ProtoDuino/blob/master/top_pcb_clean.jpg" alt="Modelo 3D" width="600" height="300">
    
   
   <br>  Vídeo de apresentação:<br>
