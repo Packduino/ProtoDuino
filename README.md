@@ -15,6 +15,10 @@ Este projeto foi pensado para pessoas interessadas em aprender programação com
 <br> - CI Atmega328p com bootloader de Arduino UNO (<a href="https://www.arduinoecia.com.br/gravando-bootloader-no-atmega328-com-arduino/">Exemplo</a>);
 <p>
 <img src="https://github.com/Packduino/ProtoDuino/blob/master/esquematico.jpg?raw=true" alt="Esquemático" width=600 height=400>
+  <br><h3> Modelo 3D </h3>
+  
+   <img src="https://github.com/Packduino/ProtoDuino/blob/master/top_pcb_clean.jpg" alt="Modelo 3D" width="600" height="600">
+   
   
   <br>  Vídeo de apresentação:<br>
     <a href="https://www.youtube.com/watch?v=MrcQVE6RkJA">Youtube</a>
